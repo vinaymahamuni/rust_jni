@@ -1,0 +1,3 @@
+[build]
+# <pom.xml:parentDir>/target/rust-maven-plugin/prime_number
+target-dir = "../../../../target/rust-maven-plugin/prime_number"
